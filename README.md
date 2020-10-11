@@ -9,8 +9,8 @@ I work mainly with HTML, CSS and JS, with React as a Javascript framework, Fireb
 📫 How to reach me: 
  <ul> 
     <li> [my Twitter profile](https://twitter.com/riccard80393203)</li>
-    <li> [my linkedIn profile](https://www.linkedin.com/in/riccardo-colombo-534460174/)</li>
-    <li> [my website](https://colomboriccardo.com/)</li>
+    <li> [my linkedIn profile](https://www.linkedin.com/in/riccardo-colombo-534460174)</li>
+    <li> [my website](https://colomboriccardo.com)</li>
 </ul>
     
 💬 Ask me about help with your project, i try and contribute to some open source interesting projects from time to time!
