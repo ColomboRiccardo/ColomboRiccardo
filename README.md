@@ -6,7 +6,7 @@ I work mainly with HTML, CSS and JS, with React as a Javascript framework, Fireb
 
 🔭 I’m currently working on a huge Ecommerce project, with 4 languages, tons of options, SEO and other features, a big project!
 
-📫 How to reach me: 
+📫 How to reach me: [my Twitter profile](https://twitter.com/riccard80393203)
  <ul> 
     <li> [my Twitter profile](https://twitter.com/riccard80393203) </li>
     <li> [my linkedIn profile](https://www.linkedin.com/in/riccardo-colombo-534460174) </li>
