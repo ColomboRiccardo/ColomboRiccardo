@@ -15,3 +15,5 @@ I'm a Frontend Developer, working to become a Fullstack developer, and from ther
     
 💬 Ask me about help with your project, i try and contribute to some open source interesting projects from time to time!
 
+Want to check out some of my projects? 
+ - [Face recognition app](https://glacial-brook-12071.herokuapp.com/)
