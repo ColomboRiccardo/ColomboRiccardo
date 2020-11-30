@@ -18,4 +18,4 @@ I'm a Frontend Developer, working to become a Fullstack developer, and from ther
 Want to check out some of my projects? 
  - [Face recognition app](https://glacial-brook-12071.herokuapp.com/)
  - [Hangman app](https://colomboriccardo.github.io/hangman/)
- - [Meal Finder app](https://colomboriccardo.github.io/meal-finder/
+ - [Meal Finder app](https://colomboriccardo.github.io/meal-finder/)
