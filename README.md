@@ -4,8 +4,6 @@ I'm a Frontend Developer, working to become a Fullstack developer, and from ther
 
 🌱 I’m currently learning React in depth, and other topics like Data structure and Algorithms, SQL and much much more!
 
-🔭 I’m currently working on a huge Ecommerce project, with 4 languages, tons of options, SEO and other features, a big project!
-
 📫 How to reach me:
  
    - [my Twitter profile](https://twitter.com/riccard80393203)
